@@ -1,7 +1,7 @@
 import cv2
 import numpy as np 
 
-box=cv2.imread("C://Users//op//Desktop//Engineering//instapython//illustrations//undraw_coding_6mjf.png")
+box=cv2.imread("  ")    #image location
 if box.all()==None:
      raise IOError("Image Cant be opened")
 
